@@ -1,1 +1,3 @@
+In the previous semester, I learned the fundamental concepts of electrical engineering, including the relationships between voltage, current, and resistance. I studied Ohm's Law, Kirchhoff's Voltage and Current Laws (KVL/KCL), as well as the characteristics of series and parallel circuits.
 
+To better understand these core concepts and formulas, I systematically organized the key points from the course into notes. My notes included explanations from class, examples from the textbook, and the formulas and application logic I had compiled. I also included hand-drawn circuit diagrams and step-by-step breakdowns, which helped me grasp the problem-solving logic more effectively.
